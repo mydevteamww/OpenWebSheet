@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Aurora Byte",
+  "description": "Dev Crafts",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Open Web Sheet",
+  "name": "Open Web:Sheet",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Open Web Sheet",
+  "short_name": "Open Web:Sheet",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Open Web Sheet",
+      "name": "Open Web:Sheet",
       "url": "",
       "description": ""
     }
